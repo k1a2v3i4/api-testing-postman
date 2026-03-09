@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Kavitha",
+      "role": "QA Tester"
+    },
+    {
+      "id": "56f8",
+      "name": "Anjali",
+      "role": "Manager"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
